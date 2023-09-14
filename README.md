@@ -1,1 +1,2 @@
-# test
+# COMP 1002 - TEST
+Learning GITHUB 
